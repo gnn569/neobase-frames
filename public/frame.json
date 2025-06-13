@@ -1,0 +1,11 @@
+{
+  "image": "https://raw.githubusercontent.com/gnn569/neobase-frames/master/public/file_000000000a7461fd910ed4db1524c5d8.png",
+  "buttons": [
+    {
+      "label": "Mint Now",
+      "action": "post_redirect",
+      "target": "https://zora.co/collect/base:0x0000000000000000000000000000000000000000"
+    }
+  ],
+  "post_url": "https://zora.co/collect/base:0x0000000000000000000000000000000000000000"
+}
